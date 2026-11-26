@@ -1,0 +1,23 @@
+name: EmoteCreator
+version: 1.0.0
+main: net.coconut.emotecreator.EmoteCreatorPlugin
+api-version: '1.21'
+authors: [Coconut Network]
+description: Coconut-themed player emotes and GUI creator.
+commands:
+  emotes:
+    description: Open the emote collection.
+    usage: /emotes
+    aliases: [emote]
+  emoteadmin:
+    description: Open the EmoteCreator administration panel.
+    usage: /emoteadmin
+permissions:
+  emotecreator.use:
+    default: true
+  emotecreator.admin:
+    default: op
+  emotecreator.create:
+    default: op
+  emotecreator.bypasscooldown:
+    default: op

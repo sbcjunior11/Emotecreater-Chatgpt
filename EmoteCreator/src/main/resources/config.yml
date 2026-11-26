@@ -1,0 +1,12 @@
+# Coconut Network theme. Replace these defaults with your server's actual brand palette.
+prefix: "<gradient:#ffd27a:#fff0c2><bold>COCONUT</bold></gradient> <dark_gray>»</dark_gray> "
+gui:
+  title: "<gradient:#f6c779:#fff0c2><bold>COCONUT EMOTES</bold></gradient>"
+  accent: "GOLD"
+  filler: "BLACK_STAINED_GLASS_PANE"
+  rows: 6
+cooldown-seconds: 3
+animation:
+  duration-ticks: 50
+  particle-count: 12
+  allow-self-emotes: true

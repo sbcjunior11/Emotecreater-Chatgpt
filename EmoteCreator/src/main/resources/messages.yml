@@ -1,0 +1,7 @@
+no-permission: "<red>You don't have permission to do that."
+player-only: "<red>This command can only be used in-game."
+unknown-emote: "<red>That emote doesn't exist."
+cooldown: "<yellow>Please wait <seconds> seconds before using another emote."
+emote-used: "<gray>You used <name><gray>!"
+saved: "<green>Emote saved."
+cancelled: "<yellow>Cancelled."
